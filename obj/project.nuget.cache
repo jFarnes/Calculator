@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HuGJjBx/DDxwj5HZkwT2SrIqjxO+3OUqXz9rMGpXdSZhGNmA8u5eQ4wvtJjghq+WzHWWaPpVMUBTqYmdY/uPfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chepi\\source\\repos\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chepi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
